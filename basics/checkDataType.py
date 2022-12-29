@@ -1,0 +1,6 @@
+# a = ("334")
+# print (type(a))
+# a = int(a)
+# print (type(a))
+a = input ("345")
+print (type(a))
